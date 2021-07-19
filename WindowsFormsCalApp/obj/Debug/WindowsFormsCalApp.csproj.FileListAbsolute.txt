@@ -1,0 +1,10 @@
+C:\Users\U6059923\C-Sharp\WindowsFormsCalApp\bin\Debug\WindowsFormsCalApp.exe.config
+C:\Users\U6059923\C-Sharp\WindowsFormsCalApp\bin\Debug\WindowsFormsCalApp.exe
+C:\Users\U6059923\C-Sharp\WindowsFormsCalApp\bin\Debug\WindowsFormsCalApp.pdb
+C:\Users\U6059923\C-Sharp\WindowsFormsCalApp\obj\Debug\WindowsFormsCalApp.csproj.AssemblyReference.cache
+C:\Users\U6059923\C-Sharp\WindowsFormsCalApp\obj\Debug\WindowsFormsCalApp.Properties.Resources.resources
+C:\Users\U6059923\C-Sharp\WindowsFormsCalApp\obj\Debug\WindowsFormsCalApp.csproj.GenerateResource.cache
+C:\Users\U6059923\C-Sharp\WindowsFormsCalApp\obj\Debug\WindowsFormsCalApp.csproj.CoreCompileInputs.cache
+C:\Users\U6059923\C-Sharp\WindowsFormsCalApp\obj\Debug\WindowsFormsCalApp.exe
+C:\Users\U6059923\C-Sharp\WindowsFormsCalApp\obj\Debug\WindowsFormsCalApp.pdb
+C:\Users\U6059923\C-Sharp\WindowsFormsCalApp\obj\Debug\WindowsFormsCalApp.Form1.resources
