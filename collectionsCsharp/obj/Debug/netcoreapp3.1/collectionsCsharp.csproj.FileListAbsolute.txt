@@ -1,0 +1,13 @@
+C:\Users\U6059923\Practice\C-Sharp\collectionsCsharp\obj\Debug\netcoreapp3.1\collectionsCsharp.csproj.AssemblyReference.cache
+C:\Users\U6059923\Practice\C-Sharp\collectionsCsharp\obj\Debug\netcoreapp3.1\collectionsCsharp.AssemblyInfoInputs.cache
+C:\Users\U6059923\Practice\C-Sharp\collectionsCsharp\obj\Debug\netcoreapp3.1\collectionsCsharp.AssemblyInfo.cs
+C:\Users\U6059923\Practice\C-Sharp\collectionsCsharp\obj\Debug\netcoreapp3.1\collectionsCsharp.csproj.CoreCompileInputs.cache
+C:\Users\U6059923\Practice\C-Sharp\collectionsCsharp\bin\Debug\netcoreapp3.1\collectionsCsharp.exe
+C:\Users\U6059923\Practice\C-Sharp\collectionsCsharp\bin\Debug\netcoreapp3.1\collectionsCsharp.deps.json
+C:\Users\U6059923\Practice\C-Sharp\collectionsCsharp\bin\Debug\netcoreapp3.1\collectionsCsharp.runtimeconfig.json
+C:\Users\U6059923\Practice\C-Sharp\collectionsCsharp\bin\Debug\netcoreapp3.1\collectionsCsharp.runtimeconfig.dev.json
+C:\Users\U6059923\Practice\C-Sharp\collectionsCsharp\bin\Debug\netcoreapp3.1\collectionsCsharp.dll
+C:\Users\U6059923\Practice\C-Sharp\collectionsCsharp\bin\Debug\netcoreapp3.1\collectionsCsharp.pdb
+C:\Users\U6059923\Practice\C-Sharp\collectionsCsharp\obj\Debug\netcoreapp3.1\collectionsCsharp.dll
+C:\Users\U6059923\Practice\C-Sharp\collectionsCsharp\obj\Debug\netcoreapp3.1\collectionsCsharp.pdb
+C:\Users\U6059923\Practice\C-Sharp\collectionsCsharp\obj\Debug\netcoreapp3.1\collectionsCsharp.genruntimeconfig.cache

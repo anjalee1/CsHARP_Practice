@@ -8,7 +8,7 @@ namespace oopsCSharp
     {
         public string data;
 
-        public string Data1 //automatic properties(shorthand) => no ne
+        public string Data1 //automatic properties(shorthand)
         { get; set; }
 
         //public string Data1
