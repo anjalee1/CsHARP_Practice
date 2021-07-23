@@ -6,5 +6,10 @@ namespace collectionsCsharp
 {
     class SortedSet
     {
+        public static void sortedset(){
+
+
+
+               }
     }
 }
