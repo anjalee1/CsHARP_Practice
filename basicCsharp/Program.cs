@@ -43,10 +43,13 @@ namespace basicCsharp
             // FunctioCall.DefaultParameter("child3");
 
             //exception handling
-            ExceHan.ExceptionHandling();
 
-            ExceHan.ExceptionHandling();
-            
+            //ExceHan.ExceptionHandling();
+            ExceHan.CheckedAndUnchecked();
+
+
+
+
         }
 
 

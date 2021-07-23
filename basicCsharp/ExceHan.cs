@@ -82,6 +82,56 @@ namespace basicCsharp
             goto startingline;
         }
 
+        public static void CheckedAndUnchecked()
+        {
+
+
+            int val = int.MaxValue;
+            Console.WriteLine(val + 2);
+
+            unchecked
+            {
+                int val1 = int.MaxValue;
+                Console.WriteLine(val + 2);
+            }
+            try
+            {
+                checked
+                {
+                    int val2 = int.MaxValue;
+                    Console.WriteLine(val + 2);
+                }
+            }
+            catch(SystemException e)
+            {
+                Console.WriteLine(e);
+            }
+            Console.Write("Press 'E' to exit the process...");
+
+            // here it asks to press "E" to exit
+            // The key "E" is shown in the console 
+            // output window because of "false"
+            while (Console.ReadKey(false).Key != ConsoleKey.E)
+            {
+            }
+
+            //Console.Write("\nPress 'E' to exit the process...");
+
+            //// here it asks to press "E" to exit
+            //// and the key "E" is not shown in
+            //// the console output window
+            //while (Console.ReadKey(true).Key != ConsoleKey.E)
+            //{
+            //}
+
+            //Console.WriteLine("\npress any key to exit the process...");
+
+            //// here we use "false" in the argument list
+            //// when we press any key, the key will 
+            //// displays in the console output window
+            //Console.ReadKey(false);
+        }
+
 
     }
 }
