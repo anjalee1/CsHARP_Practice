@@ -35,6 +35,10 @@ namespace basicCsharp
             //SwitchAndLoop.SwitchCaseandLoops();
             //Nullable.NullableHelper();
             //Array.MultiArray();
+            Array.JaggedArray();
+            Array.Params( 4, 5, 6, 7, 8, 9 );
+            Array.Params( 7, 8, 9);
+            
             int data = 20;
             Console.WriteLine("value before calling function" + data);
             FunctioCall.Callbyvalue(data);
