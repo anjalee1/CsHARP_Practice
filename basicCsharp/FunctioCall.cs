@@ -25,5 +25,14 @@ namespace basicCsharp
             Console.WriteLine("value inside function" + val2);
         }
 
-    }
+        public static void DefaultParameter(string child1 = "Liam", string child2 = "Jenny", string child3 = "John")
+
+        {
+
+            Console.WriteLine(child3);
+            Console.ReadLine();
+
+        }
+
+}
 }
