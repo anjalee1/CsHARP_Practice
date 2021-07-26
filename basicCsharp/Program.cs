@@ -45,7 +45,8 @@ namespace basicCsharp
             //exception handling
 
             //ExceHan.ExceptionHandling();
-            ExceHan.CheckedAndUnchecked();
+            //ExceHan.CheckedAndUnchecked();
+            ArrayClass.Arrayclass();
 
 
 
