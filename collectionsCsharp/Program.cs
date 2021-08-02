@@ -10,9 +10,14 @@ namespace collectionsCsharp
 
         {
 
-            List.list();
-            HashSet.hashSet();
-            HashTable.hashtable();
+            //List.list();
+            //HashSet.hashSet();
+            //HashTable.hashtable();
+            //Dictionary.Dict();
+            // SortedSet.sortedset();
+            //SortedList.Sortedlist();
+            //Stack.STack();
+            Queue.QUeue();
 
 
         }
