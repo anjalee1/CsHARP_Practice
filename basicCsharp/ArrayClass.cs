@@ -23,7 +23,7 @@ namespace basicCsharp
 
             //int index =Array.Find(ar, element => element.StartsWith("S",
             //               StringComparison.Ordinal));
-            Console.WriteLine(index);
+            
             Console.ReadKey();
         }
     }
