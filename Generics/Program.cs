@@ -23,6 +23,21 @@ namespace Generics
             }
         }
     }
+    
+
+    public class Common1 { 
+    
+        public  void Display<TypeOfValue>(string msg ,TypeOfValue value)
+
+        {
+            Console.WriteLine("{0}:{1}", msg, value);
+        }
+
+
+
+
+    }
+
 
     class Program
     {
@@ -34,6 +49,11 @@ namespace Generics
             obj2.value = 34;
             Console.WriteLine(obj1.value);
             Console.WriteLine(obj2.value);
+            
+
+            Common1 obj3 = new Common1();
+            obj3.Display<int>("int", 1);
+            obj3.Display<char>("character", 'h');
             Console.ReadLine();
 
 
