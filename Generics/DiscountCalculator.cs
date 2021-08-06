@@ -4,10 +4,13 @@ using System.Text;
 
 namespace Generics
 {
-    class DiscountCalculator<Tproduct>where Tproduct: Products
+    class DiscountCalculator<Tproduct> where Tproduct : Products
     {
 
-        public float CalculateDiscoutnt() {
+        public float CalculateDiscount(Tproduct Products)
+        {
 
+            return Products.Price;
+        }
     }
 }

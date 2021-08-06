@@ -31,6 +31,10 @@ namespace Generics
 
         {
             Console.WriteLine("{0}:{1}", msg, value);
+            var number = new Nullable<int>(5);
+            
+            Console.WriteLine("Has Value?" + number.HasValue);
+            Console.WriteLine("Has Value?" + number.GetValueOrDefault());
         }
 
 
