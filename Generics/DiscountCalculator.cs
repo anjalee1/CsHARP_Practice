@@ -7,6 +7,7 @@ namespace Generics
     class DiscountCalculator<Tproduct>where Tproduct: Products
     {
 
-        public float 
+        public float CalculateDiscoutnt() {
+
     }
 }
