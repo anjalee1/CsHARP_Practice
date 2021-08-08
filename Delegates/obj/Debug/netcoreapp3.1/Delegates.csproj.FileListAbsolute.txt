@@ -1,0 +1,13 @@
+C:\A\Practice\C-Sharp\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\A\Practice\C-Sharp\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\A\Practice\C-Sharp\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\A\Practice\C-Sharp\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\A\Practice\C-Sharp\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\A\Practice\C-Sharp\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\A\Practice\C-Sharp\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.AssemblyReference.cache
+C:\A\Practice\C-Sharp\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\A\Practice\C-Sharp\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\A\Practice\C-Sharp\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\A\Practice\C-Sharp\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\A\Practice\C-Sharp\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\A\Practice\C-Sharp\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache

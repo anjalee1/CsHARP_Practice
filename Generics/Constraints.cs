@@ -12,11 +12,16 @@ using System.Text;
 
 namespace Generics
 {
-    class Constraints<T> where T : IComparable
+    class Constraints<T> where T : IComparable, new()
     {
       public int Max(int a ,int b)
         {
             return a > b ? a : b;
+        }
+
+        public void doSomething(T value)
+        {
+            var obj = new T();
         }
      public T Max(T a , T b )               // T Max<T>(T a, T b) where T: IComparable
         {  
