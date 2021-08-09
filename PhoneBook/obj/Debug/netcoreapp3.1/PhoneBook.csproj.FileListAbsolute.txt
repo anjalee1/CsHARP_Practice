@@ -1,0 +1,13 @@
+C:\A\Practice\C-Sharp\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.exe
+C:\A\Practice\C-Sharp\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.deps.json
+C:\A\Practice\C-Sharp\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.runtimeconfig.json
+C:\A\Practice\C-Sharp\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.runtimeconfig.dev.json
+C:\A\Practice\C-Sharp\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.dll
+C:\A\Practice\C-Sharp\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.pdb
+C:\A\Practice\C-Sharp\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.csproj.AssemblyReference.cache
+C:\A\Practice\C-Sharp\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.AssemblyInfoInputs.cache
+C:\A\Practice\C-Sharp\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.AssemblyInfo.cs
+C:\A\Practice\C-Sharp\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.csproj.CoreCompileInputs.cache
+C:\A\Practice\C-Sharp\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.dll
+C:\A\Practice\C-Sharp\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.pdb
+C:\A\Practice\C-Sharp\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.genruntimeconfig.cache
