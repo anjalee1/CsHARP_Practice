@@ -4,17 +4,20 @@ namespace PhoneBook
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.Title = "PHONEBOOK CONSOLE";
            
+            
             Console.ForegroundColor = ConsoleColor.DarkRed;
-           
+
             Console.WriteLine();
             
-            Console.WriteLine("                                      MY PHONEBOOK");
+            Console.WriteLine("                                   PHONEBOOK");
+
             Console.WriteLine();
 
+            Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine("                      SELECT OPERATION:");
             Console.WriteLine("                           1.ADD CONTACT");
             Console.WriteLine("                           2.DISPLAY CONTACT BY NUMBER");
@@ -45,10 +48,19 @@ namespace PhoneBook
                         ContactOperations.AddContact(newContact);
                         break;
                     case "2":
+                        Console.Write("Contact Number To Search:");
+                         var SearchNumber=Console.ReadLine();
+                        ContactOperations.DisplayContact(SearchNumber);
                         break;
                     case "3":
+                        ContactOperations.DisplayAllContact();
                         break;
                     case "4":
+                        Console.Write("Enter Name To Search");
+                        var SearchPhrase = Console.ReadLine();
+                        ContactOperations.DisplayMatchingContacts(SearchPhrase);
+
+
                         break;
                     case "E":
                         return;
