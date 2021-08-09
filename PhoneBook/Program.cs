@@ -6,28 +6,39 @@ namespace PhoneBook
     {
         static void Main(string[] args)
         {
-            
+            Console.Title = "PHONEBOOK CONSOLE";
+           
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+           
             Console.WriteLine();
+            
             Console.WriteLine("                                      MY PHONEBOOK");
             Console.WriteLine();
 
-            Console.WriteLine("                       SELECT OPERATION:");
+            Console.WriteLine("                      SELECT OPERATION:");
             Console.WriteLine("                           1.ADD CONTACT");
             Console.WriteLine("                           2.DISPLAY CONTACT BY NUMBER");
             Console.WriteLine("                           3.VIEW ALL CONTACTS");
             Console.WriteLine("                           4.SEARCH FOR CONTACTS FOR A GIVEN NAME");
-            Console.WriteLine("                           PRESS E TO EXIT");
+            Console.WriteLine("                           5.PRESS E TO EXIT");
+
+            
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.Write("Enter Your Choice:");
+
             var UserInput = Console.ReadLine();
             var ContactOperations = new ContactOperations();
 
             while (true)
             {
+                Console.BackgroundColor = ConsoleColor.Yellow;
+                Console.ForegroundColor = ConsoleColor.DarkBlue;
                 switch (UserInput)
                 {
                     case "1":
-                        Console.WriteLine("Contact Name:");
+                        Console.Write("Contact Name:");
                         var name = Console.ReadLine();
-                        Console.WriteLine("Contact Number:");
+                        Console.Write("Contact Number:");
                         var number = Console.ReadLine();
 
                         var newContact = new ContactDetails(name, number);
@@ -48,10 +59,13 @@ namespace PhoneBook
 
                         
                 }
+                Console.Title = "PHONEBOOK CONSOLE";
+                Console.ForegroundColor = ConsoleColor.DarkGreen;
                 Console.WriteLine();
+                Console.BackgroundColor = ConsoleColor.Black;
+                Console.Write("Enter Your Choice:");
                 UserInput = Console.ReadLine();
-                Console.Write("SELECT OPERATION:");
-                UserInput = Console.ReadLine();
+                Console.Title = "My PHONEBOOK";
             }
         }
     }
