@@ -48,7 +48,7 @@ namespace PhoneBook
                         ContactOperations.AddContact(newContact);
                         break;
                     case "2":
-                        Console.Write("Contact Number To Search:");
+                        Console.Write("Contact Number To Search: ");
                          var SearchNumber=Console.ReadLine();
                         ContactOperations.DisplayContact(SearchNumber);
                         break;
@@ -56,7 +56,7 @@ namespace PhoneBook
                         ContactOperations.DisplayAllContact();
                         break;
                     case "4":
-                        Console.Write("Enter Name To Search");
+                        Console.Write("Enter Name To Search: ");
                         var SearchPhrase = Console.ReadLine();
                         ContactOperations.DisplayMatchingContacts(SearchPhrase);
 

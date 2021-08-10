@@ -9,11 +9,12 @@ namespace PhoneBook
         private List<ContactDetails> _contacts { get; set; } = new List<ContactDetails>();
         private void DisplayContactDetails(ContactDetails contact)
         {
-            Console.WriteLine($"Contact: {contact.Name},{contact.Number}");
+            Console.WriteLine($"Contact Name : {contact.Name}   Contact Number : { contact.Number}");
 
         }
         private void DisplayContactsDetails(List<ContactDetails> contacts)
         {
+            
             foreach (var contact in contacts)
             {
                 DisplayContactDetails(contact);
