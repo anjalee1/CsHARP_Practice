@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\A\\Practice\\C-Sharp\\PhoneBook\\PhoneBook.csproj": {}
+    "C:\\A\\Practice\\C-Sharp\\UnsafeCode\\UnsafeCode.csproj": {}
   },
   "projects": {
-    "C:\\A\\Practice\\C-Sharp\\PhoneBook\\PhoneBook.csproj": {
+    "C:\\A\\Practice\\C-Sharp\\UnsafeCode\\UnsafeCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\A\\Practice\\C-Sharp\\PhoneBook\\PhoneBook.csproj",
-        "projectName": "PhoneBook",
-        "projectPath": "C:\\A\\Practice\\C-Sharp\\PhoneBook\\PhoneBook.csproj",
+        "projectUniqueName": "C:\\A\\Practice\\C-Sharp\\UnsafeCode\\UnsafeCode.csproj",
+        "projectName": "UnsafeCode",
+        "projectPath": "C:\\A\\Practice\\C-Sharp\\UnsafeCode\\UnsafeCode.csproj",
         "packagesPath": "C:\\Users\\U6059923\\.nuget\\packages\\",
-        "outputPath": "C:\\A\\Practice\\C-Sharp\\PhoneBook\\obj\\",
+        "outputPath": "C:\\A\\Practice\\C-Sharp\\UnsafeCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\U6059923\\AppData\\Roaming\\NuGet\\NuGet.Config",

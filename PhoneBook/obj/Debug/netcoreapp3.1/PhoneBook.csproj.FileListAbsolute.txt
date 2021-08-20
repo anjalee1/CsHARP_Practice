@@ -11,3 +11,4 @@ C:\A\Practice\C-Sharp\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.csproj.CoreCom
 C:\A\Practice\C-Sharp\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.dll
 C:\A\Practice\C-Sharp\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.pdb
 C:\A\Practice\C-Sharp\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.genruntimeconfig.cache
+C:\A\Practice\C-Sharp\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig

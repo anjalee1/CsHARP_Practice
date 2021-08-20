@@ -1,0 +1,14 @@
+C:\A\Practice\C-Sharp\UnsafeCode\bin\Debug\netcoreapp3.1\UnsafeCode.exe
+C:\A\Practice\C-Sharp\UnsafeCode\bin\Debug\netcoreapp3.1\UnsafeCode.deps.json
+C:\A\Practice\C-Sharp\UnsafeCode\bin\Debug\netcoreapp3.1\UnsafeCode.runtimeconfig.json
+C:\A\Practice\C-Sharp\UnsafeCode\bin\Debug\netcoreapp3.1\UnsafeCode.runtimeconfig.dev.json
+C:\A\Practice\C-Sharp\UnsafeCode\bin\Debug\netcoreapp3.1\UnsafeCode.dll
+C:\A\Practice\C-Sharp\UnsafeCode\bin\Debug\netcoreapp3.1\UnsafeCode.pdb
+C:\A\Practice\C-Sharp\UnsafeCode\obj\Debug\netcoreapp3.1\UnsafeCode.csproj.AssemblyReference.cache
+C:\A\Practice\C-Sharp\UnsafeCode\obj\Debug\netcoreapp3.1\UnsafeCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\A\Practice\C-Sharp\UnsafeCode\obj\Debug\netcoreapp3.1\UnsafeCode.AssemblyInfoInputs.cache
+C:\A\Practice\C-Sharp\UnsafeCode\obj\Debug\netcoreapp3.1\UnsafeCode.AssemblyInfo.cs
+C:\A\Practice\C-Sharp\UnsafeCode\obj\Debug\netcoreapp3.1\UnsafeCode.csproj.CoreCompileInputs.cache
+C:\A\Practice\C-Sharp\UnsafeCode\obj\Debug\netcoreapp3.1\UnsafeCode.dll
+C:\A\Practice\C-Sharp\UnsafeCode\obj\Debug\netcoreapp3.1\UnsafeCode.pdb
+C:\A\Practice\C-Sharp\UnsafeCode\obj\Debug\netcoreapp3.1\UnsafeCode.genruntimeconfig.cache
