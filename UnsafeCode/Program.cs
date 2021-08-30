@@ -13,10 +13,7 @@ namespace UnsafeCode
             Console.WriteLine((*pDemo).N + " " + (*pDemo).M);
             Console.WriteLine(pDemo->N + " " + pDemo->M);
         }
-        static int Square(int n)
-        {
-            return n * n;
-        }
+        
 
         static unsafe void Square(int* pn)
         {
