@@ -14,6 +14,11 @@ namespace Practice_MVCaspnet.Controllers
         {
             var movie = new Movie() { Name = "Lucy" };
             return View(movie);
+            //return new ViewResult();
+        }
+        public ActionResult Edit(int id)
+        {
+            return Content("id =" + id);
         }
     }
 }
